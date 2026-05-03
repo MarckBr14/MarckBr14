@@ -74,7 +74,7 @@ Atualmente atuo no Bradesco Seguros, desenvolvendo soluções com foco em integr
     title="SQL Server" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)" 
 />
 <img 
     align="left" 

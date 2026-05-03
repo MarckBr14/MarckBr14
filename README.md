@@ -7,10 +7,10 @@ Me chamo Marcos Pereira, tenho 23 anos e sou natural do Barueri, SP. Desenvolved
 Atualmente atuo no Bradesco Seguros, desenvolvendo soluções com foco em integração de sistemas, APIs REST e experiência do usuário, contribuindo para ambientes críticos que exigem confiabilidade e eficiência.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="www.linkedin.com/in/marcos-pereira-96552024b">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Linkedin" 
+            title="Vamos nos conectar!" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>

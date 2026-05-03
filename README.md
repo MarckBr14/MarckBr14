@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marcos Pereira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Marcos Pereira, tenho 23 anos e sou natural do Barueri, SP. Desenvolvedor Full Stack com experiência na construção de aplicações escaláveis, seguras e de alta performance, com atuação no setor financeiro.
 
@@ -11,10 +11,10 @@ Atualmente atuo no Bradesco Seguros, desenvolvendo soluções com foco em integr
         <img 
             alt="Linkedin" 
             title="Vamos nos conectar!" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="www.linkedin.com/in/marcos-pereira-96552024b">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 

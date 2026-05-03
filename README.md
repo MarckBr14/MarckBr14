@@ -108,12 +108,12 @@ Atualmente atuo no Bradesco Seguros, desenvolvendo soluções com foco em integr
 
 <p align="center">
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=MarckBr14&show_icons=true&theme=tokyonight" 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarckBr14&show_icons=true&theme=tokyonight"
   />
-  
+
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarckBr14&layout=compact&theme=tokyonight" 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarckBr14&layout=compact&theme=tokyonight"
   />
 </p>

@@ -76,6 +76,22 @@ Atualmente atuo no Bradesco Seguros, desenvolvendo soluções com foco em integr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
+<img 
+    align="left" 
+    alt="VS Code"
+    title="Visual Studio Code" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" 
+/>
+<img 
+    align="left" 
+    alt="PyCharm"
+    title="PyCharm" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" 
+/>
 
 <br/>
 <br/>

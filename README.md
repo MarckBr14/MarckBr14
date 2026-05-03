@@ -11,7 +11,7 @@ Atualmente atuo no Bradesco Seguros, desenvolvendo soluções com foco em integr
         <img 
             alt="Linkedin" 
             title="Vamos nos conectar!" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src=""
         />
     </a>
     <a href="www.linkedin.com/in/marcos-pereira-96552024b">

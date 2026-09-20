@@ -104,6 +104,14 @@ Atualmente atuo no Bradesco Seguros, desenvolvendo soluções com foco em integr
 <br/>
 <br/>
 
+<h2>🤖 Linguagens e Tecnologias</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,python,cs,mysql,vscode,pycharm" />
+</p>
+
+<br>
+
 <p align="center">
   <img
     width="48%"
